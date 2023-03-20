@@ -1,5 +1,5 @@
 class Class2:
-    """Class2 opis"""
+    """Class2 opis """
     def __init__(self):
         """ opis init
 
